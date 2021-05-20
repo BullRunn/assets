@@ -1,0 +1,50 @@
+
+{
+
+    "name": “Bull Run”,
+
+    "website": "https://br.finance”,
+
+    "source_code": "https://github.com/bullrun”,
+
+    "white_paper": "https://github.com/aeternity/white-paper/blob/master/paper.pdf",
+
+    "description": “Bull Run is unique Project with aims to get general public in to crypto market through grossroot mobilisation, bull run have mandate to create biggest ever bull in the earth”,
+
+    "socials": [
+
+        {
+
+            "name": "Twitter",
+
+            "url": "https://twitter.com/bullrunn_f”,
+
+            "handle": “Bull Run”
+
+        },
+
+        {
+
+            "name": “Telegram”,
+
+            "url": "https://www.telegram.org/bullrunn_f”,
+
+            "handle": “Bull Run”
+
+        }
+
+    ],
+
+    "explorer": "https://bscscan.com/",
+
+    "research": "https://bscscan.com/token/0x25b070898a6c899b31e81de686b82241f5964ab4",
+
+    "symbol": “BR”,
+
+    "type": “Token”,
+
+    "decimals": 18,
+
+    "status": "active"
+
+}
